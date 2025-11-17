@@ -2,7 +2,7 @@
 parameters:
   environment: dev
   environmentDisplayName: Development
-  backendServiceArm: 'my-subscriptioeedn'
+  backendServiceArm: 'my-subscription'
   backendAzureRmResourceGroupName: 'resourcegroup-tfstate'
   backendAzureRmStorageAccountName: 'teplatshanrosh'
   backendAzureRmContainerName: 'tfstate'
