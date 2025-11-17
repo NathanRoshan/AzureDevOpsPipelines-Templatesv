@@ -6,7 +6,7 @@ variables:
   backendAzureRmResourceGroupName: 'resourcegroup-devops-tfstate'
   backendAzureRmStorageAccountName: 'terraform0tfstate0'
   backendAzureRmContainerName: 'tfstate'
-  location: 'westeurope'
+  location: 'westindia'
   tfBackendEnvironment: tf_backend
   devEnvironment: dev
   testEnvironment: test
