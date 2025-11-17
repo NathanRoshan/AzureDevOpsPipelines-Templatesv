@@ -20,7 +20,7 @@ stages:
   - job: Terraform_Plan
     displayName: Terraform Init, Plan & Apply
     pool:
-      vmImage: ubuntu-latest
+      name: Default
 
     steps:
     
