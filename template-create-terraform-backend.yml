@@ -4,7 +4,7 @@ parameters:
   environmentDisplayName: Terraform Backend
   backendServiceArm: ''
   backendAzureRmResourceGroupName: 'resourcegroup-tfstate'
-  backendAzureRmStorageAccountName: 'terraformtfstate'
+  backendAzureRmStorageAccountName: 'teplatshanrosh'
   backendAzureRmContainerName: 'tfstate'
   location: 'westindia'
   dependsOn: []
