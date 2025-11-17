@@ -4,7 +4,7 @@ parameters:
   environmentDisplayName: Development
   backendServiceArm: ''
   backendAzureRmResourceGroupName: 'resourcegroup-tfstate'
-  backendAzureRmStorageAccountName: 'terraformtfstate'
+  backendAzureRmStorageAccountName: 'teplatshanrosh'
   backendAzureRmContainerName: 'tfstate'
   backendAzureRmKey: 'dev.tfstate'
   workingDirectory: 'terraform'
